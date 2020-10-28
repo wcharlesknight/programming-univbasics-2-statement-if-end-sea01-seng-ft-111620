@@ -1,2 +1,2 @@
 # Write your solution here
-Time.now
+p Time.now
