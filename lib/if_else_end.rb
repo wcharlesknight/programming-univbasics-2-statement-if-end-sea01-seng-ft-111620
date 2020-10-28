@@ -1,2 +1,2 @@
 # Write your solution here
-Time.now
+current_time = Time.now
